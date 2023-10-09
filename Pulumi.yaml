@@ -1,0 +1,3 @@
+name: aad
+runtime: go
+description: Manage an existing app registration
